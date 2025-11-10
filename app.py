@@ -3,4 +3,4 @@ def insecure_function(password: str):
     print("Your password is:", password)
 
 if __name__ == "__main__":
-    insecure_function("admin123")
+    insecure_function("admin")
