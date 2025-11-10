@@ -1,4 +1,3 @@
-
 def insecure_function(password: str):
     # Intentionally unsafe for practice purposes
     print("Your password is:", password)
